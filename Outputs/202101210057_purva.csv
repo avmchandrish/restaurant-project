@@ -1,0 +1,171 @@
+name,rest_id,city,area,rating,cuisine,cost_for_two,del_time,max_del_time,min_del_time,loc,disc_meta,disc_type,disc_op_type,fee,menu_link,slug
+WarmOven Cake & Desserts,27996,1,HSR,4.2,"['Bakery', 'Desserts', 'Ice Cream']",200.0,35,35,35,HSR,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,warm-oven-hsr-hsr
+Singh Da Pind,294144,1,HSR,4.1,"['Punjabi', 'North Indian', 'Chinese', 'Mughlai']",400.0,29,29,29,HSR Layout,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,singh-da-pind-kudlu-gate-kudlu-gate
+MEALFUL WRAPS,274772,1,HSR,--,"['Fast Food', 'North Indian', 'Desserts', 'Snacks', 'Indian']",250.0,27,27,27,Harlur Road,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,mealful-wraps-meals-in-a-wrap-harlur-road-hsr
+Yumlane Pizza,118541,1,Bellandur Sarjapur,3.7,"['Pizzas', 'Desserts', 'Ice Cream', 'Beverages', 'Italian']",300.0,31,31,31,Kasavanahalli,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,yumlane-pizza-kasavanahalli-bellandursarjapur
+Itminaan Biryani - Dum Pukht,313595,1,HSR,4.3,"['Biryani', 'North Indian', 'Mughlai']",400.0,30,30,30,Harlur Road,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,itminaan-dum-pukht-biryani-harlur-road-hsr
+LeanCrust Pizza,313460,1,HSR,--,"['Pizzas', 'Italian', 'Healthy Food']",350.0,26,26,26,Harlur Road,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,leancrust-pizza-harlur-road-hsr
+Khichdi Experiment,184156,1,HSR,4.4,"['Home Food', 'Healthy Food', 'Indian']",250.0,30,30,30,"Link Rd, BDA Layout",50% off | Use SPECIALS,Percentage,RESTAURANT,40.0,,khichidi-experiment-27th-main-hsr-layout-hsr
+The Biryani Experiment,219721,1,HSR,4.0,"['Mughlai', 'Biryani']",500.0,38,38,38,"Link Rd, BDA Layout",40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,isfahani-biryani-link-rd-bda-layout-hsr
+Gulpp,305857,1,HSR,--,"['Beverages', 'Desserts']",150.0,26,26,26,"Link Rd, BDA Layout",,,,40.0,,beverages-shakes-link-rd-bda-layout-hsr
+The Daily Diner,305833,1,HSR,3.8,"['North Indian', 'Indian', 'Beverages', 'Home Food', 'Combo', 'Healthy Food', 'South Indian']",250.0,30,30,30,"Link Rd, BDA Layout",50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,paratha-combo-link-rd-bda-layout-hsr
+Domino's Pizza,49668,1,Bangalore,4.3,['Pizzas'],400.0,45,45,45,Haralur Village,,,,40.0,,dominos-pizza-haralur-village-bellandursarjapur
+Nashta Express,280576,1,HSR,4.1,"['Home Food', 'Healthy Food', 'Indian']",200.0,30,30,30,"Link Rd, BDA Layout",30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,breakfast-experiment-by-ola-foods-link-rd-bda-layout-hsr
+Kaati Zone Rolls and Wraps,76251,1,HSR,4.4,"['Fast Food', 'Beverages', 'Bengali', 'Biryani', 'Indian', 'North Indian', 'Snacks', 'Street Food', 'Healthy Food']",150.0,34,34,34,HSR,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,kz-mini-rolls-koramangala-1-koramangala
+Paratha Experiment,254868,1,HSR,4.2,"['North Indian', 'Punjabi']",200.0,32,32,32,"Link Rd, BDA Layout",30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,paratha-experiment-link-rd-bda-layout-hsr
+Bowlsome,219699,1,HSR,4.4,"['Indian', 'North Indian', 'Desserts']",250.0,32,32,32,"Link Rd, BDA Layout",50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,bowlsome-link-rd-bda-layout-hsr
+Chinese BAE,225464,1,Bellandur Sarjapur,4.0,['Chinese'],250.0,49,49,49,Sai Durga Enclave,60% off | Use DEAL60,Percentage,RESTAURANT,0.0,,chinese-bae-bellandur-sarjapur-bellandur-sarjapur
+Vijayawada Style,157341,1,Electronic City,3.2,['Indian'],360.0,33,33,33,"electronics city, Phase 2",30% off on orders above ₹189,Percentage,RESTAURANT,40.0,,vijayawada-style-banaswadi
+Happy Days,93589,1,Electronic City,2.8,"['Chinese', 'South Indian', 'North Indian', 'Desserts', 'Fast Food', 'Andhra', 'Beverages', 'Mughlai', 'Seafood', 'Punjabi', 'Hyderabadi']",300.0,32,32,32,Electronic city,30% off on orders above ₹189,Percentage,RESTAURANT,40.0,,happy-days-electronic-city-kudlu_gate
+Ovenstory Pizza,18298,1,HSR,4.4,"['Pizzas', 'Italian']",600.0,36,36,36,HSR Sector 1,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,ovenstory-hsr-sector-1-hsr
+Night Fox,69729,1,Electronic City,2.9,"['Chinese', 'South Indian', 'North Indian', 'Desserts', 'Fast Food', 'Andhra', 'Beverages', 'Mughlai', 'Seafood', 'Punjabi', 'Hyderabadi']",300.0,31,31,31,Singasandra,30% off on orders above ₹189,Percentage,RESTAURANT,40.0,,night-fox-kudlu-gate-test-prod-area
+Indiana Burgers,59797,1,Bellandur Sarjapur,4.2,"['American', 'Fast Food', 'Beverages', 'Healthy Food']",150.0,33,33,33,Bellandur/Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,indiana-burgers-kaikondrahalli-bellandursarjapur
+Hao Chi,262660,1,Bellandur Sarjapur,3.9,"['Asian', 'Chinese', 'Japanese', 'Pan-Asian', 'Thai', 'Desserts']",600.0,48,48,48,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,hao-chi-bellandur-sarjapur-bellandur-sarjapur
+Kia's Kitchen,61979,1,HSR,--,"['Indian', 'Chinese', 'Thalis', 'Biryani']",250.0,26,26,26,27th main,,,,40.0,,kias-kitchen-hsr-hsr
+Slurpy Shakes,59615,1,Bellandur Sarjapur,4.5,"['Beverages', 'Ice Cream', 'Desserts']",200.0,31,31,31,Bellandur/Sarjapur,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,slurpy-shake-rjapur-main-rd-kaikondrahalli-bellandursarjapur
+Dock Frost'd,262070,1,Bellandur Sarjapur,4.4,"['Desserts', 'Ice Cream', 'Beverages']",300.0,44,44,44,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,dock-frost'd-bellandur-sarjapur-bellandur-sarjapur
+Burger It Up,238142,1,Bellandur Sarjapur,4.1,"['Continental', 'American', 'Desserts', 'Fast Food', 'Beverages', 'Snacks']",400.0,33,33,33,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,burger-it-up-bellandur-sarjapur-bellandur-sarjapur
+The Dessert Zone,277945,1,Bellandur Sarjapur,4.3,"['Desserts', 'Bakery', 'Ice Cream', 'American', 'British', 'Combo', 'Snacks', 'Beverages']",300.0,31,31,31,Bellandur Sarjapur,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-jar-factory-bellandur-sarjapur-bellandur-sarjapur
+Behrouz Biryani,14980,1,HSR,4.4,"['Biryani', 'Mughlai']",600.0,37,37,37,Near NIFT College,20% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,behrouz-biryani-near-nift-college-hsr
+Cupcake Bliss Cakes & Desserts,60657,1,Bellandur Sarjapur,4.2,"['Desserts', 'Ice Cream', 'Bakery', 'American', 'British', 'Combo', 'Snacks']",199.0,33,33,33,Bellandur/Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,cupcake-bliss-kaikondrahalli-bellandursarjapur
+Sundae Everyday Ice Creams,255298,1,Bellandur Sarjapur,4.2,"['Desserts', 'Ice Cream']",200.0,29,29,29,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,sundae-everyday-bellandur-sarjapur-bellandur-sarjapur
+XO Belgian Waffle,79027,1,HSR,4.4,['Desserts'],250.0,30,30,30,HSR Layout,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,xo-belgian-waffle-hbr-layout-kammanahallikalyan-nagar
+Fries Box,244648,1,HSR,--,"['American', 'Continental']",250.0,28,28,28,HSR,,,,40.0,,fries-box-hsr-hsr
+Balle Balle Kitchen,150397,1,HSR,--,"['North Indian', 'Mughlai', 'Chinese', 'Hyderabadi', 'Punjabi']",200.0,35,35,35,HSR,,,,40.0,,balle-balle-kitchen-hsr-hsr
+Moti Mahal Delux,644,1,HSR,3.9,"['Mughlai', 'North Indian', 'Chinese', 'Hyderabadi', 'Punjabi']",500.0,35,35,35,Sector 2,10% off | Use PARTY,Percentage,RESTAURANT,40.0,,moti-mahal-delux-sector-2-hsr
+Biryani Khazana,203786,1,HSR,4.3,['Biryani'],400.0,34,34,34,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,biryani-khazana-hsr-hsr
+Shahenshah Biryani,259375,1,HSR,4.3,['Biryani'],400.0,33,33,33,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,shahenshah-biryani-hsr-hsr
+Frozen Bottle,107708,1,Bellandur Sarjapur,4.2,"['Beverages', 'Ice Cream', 'Desserts']",250.0,25,25,25,Harlur Road,50% off | Use SPECIALS,Percentage,RESTAURANT,40.0,,frozen-bottle-sarjapur-disabled-2
+Sandwich Eats,230259,1,HSR,4.2,"['Fast Food', 'Indian', 'Snacks', 'Beverages', 'Bakery', 'Desserts']",99.0,38,38,38,HSR,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,sandwich-eats-hsr-hsr
+Mama Mia! - Italian Ice Creams,184129,1,HSR,4.2,"['Ice Cream', 'Desserts', 'Bakery', 'Sweets']",200.0,26,26,26,HSR,20% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,mama-mia-hsr
+Smoodies,110402,1,HSR,4.3,"['Beverages', 'Healthy Food']",140.0,31,31,31,HSR,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,smoodies-marathahalli
+Bowl It,316383,1,HSR,--,"['Salads', 'Desserts', 'Italian']",300.0,37,37,37,HSR,10% off on orders above ₹149,Percentage,RESTAURANT,40.0,,bowl-it-hsr-hsr
+ OliveU.Fit,304164,1,HSR,--,['Beverages'],300.0,34,34,34,HSR,10% off on orders above ₹149,Percentage,RESTAURANT,40.0,,o.live.u-hsr-hsr
+Burgermeister,304156,1,HSR,4.3,"['American', 'Fast Food', 'Beverages']",300.0,37,37,37,HSR,10% off on orders above ₹149,Percentage,RESTAURANT,40.0,,oh-my!-burger-hsr-hsr
+Chaayos Meri Wali Chai,334867,1,HSR,4.5,"['Bakery', 'Beverages', 'Cafe', 'Chaat', 'Desserts', 'Fast Food', 'Healthy Food', 'Home Food', 'Italian', 'Maharashtrian', 'Snacks', 'Street Food', 'Sweets']",250.0,29,29,29,Chaayos  HSR Layout,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,chaayos-meri-wali-chai-chaayos-hsr-layout-hsr
+CUPPA REDEFINED,256138,1,HSR,4.3,"['American', 'Continental', 'Beverages', 'Desserts']",300.0,40,40,40,HSR,,,,40.0,,cuppa-redefined-hsr-hsr
+M M Restaurant,104348,1,HSR,--,"['Chinese', 'North Indian', 'Fast Food', 'Hyderabadi']",350.0,30,30,30,HSR,,,,40.0,,m-m-restaurant-hsr
+Royale Rolls,280767,1,Koramangala,4.0,['Continental'],200.0,39,39,39,Koramangala,50% off on all orders,Percentage,RESTAURANT,40.0,,royale-rolls-koramangala-koramangala-2
+Thali 99,329426,1,HSR,4.4,['North Indian'],250.0,39,39,39,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,thali-99-hsr-hsr
+Mirchies,303618,1,HSR,4.2,"['Indian', 'Combo', 'North Indian', 'Chinese']",250.0,39,39,39,Mangammanapalya,10% off on orders above ₹90,Percentage,RESTAURANT,40.0,,mirchies-hsr-hsr
+Roll Rutba,313824,1,HSR,4.0,"['Fast Food', 'Beverages']",200.0,36,36,36,Mangammanapalya,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,roll-rutba-hsr-hsr
+The Game of Paratha,313833,1,HSR,--,['Indian'],200.0,41,41,41,Mangammanapalya,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-game-of-paratha-hsr-hsr
+The Momo Ministry,310546,1,HSR,3.9,['Chinese'],250.0,39,39,39,Mangammanapalya,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-momo-ministry-hsr-hsr
+Wakeup Cafe,156553,1,HSR,--,"['Fast Food', 'Beverages', 'Juices', 'Ice Cream']",100.0,35,35,35,HSR Layout,50% off on all orders,Percentage,RESTAURANT,40.0,,wakeup-cafe-hsr
+LunchBox,62910,1,HSR,4.3,"['North Indian', 'Desserts', 'Biryani']",200.0,30,30,30,Near NIFT College,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,lunchbox-near-nift-college-hsr
+Firangi Bake,34366,1,HSR,4.5,"['Italian', 'Mexican', 'Pastas']",400.0,37,37,37,NEAR NIFT COLLEGE,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,firangi-bake-near-nift-college-hsr
+The Biryani Life,186079,1,HSR,3.8,"['Biryani', 'Mughlai', 'Indian']",250.0,33,33,33,Near NIFT College,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-biryani-life-near-nift-college-rebel_hsr
+The Good Bowl,156414,1,HSR,4.0,"['North Indian', 'Biryani', 'Asian', 'Pastas', 'Desserts']",400.0,31,31,31,HSR Layout,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,the-good-bowl-hsr-layout-hsr
+Immunity Booster Meals by Lunchbox,263605,1,HSR,--,"['North Indian', 'Desserts', 'Biryani']",200.0,30,30,30,Near NIFT College,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,navratri-meals-by-faasos-near-nift-college-rebel_hsr
+Maggie's Kitchen,277433,1,HSR,4.3,['North Indian'],200.0,40,40,40,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,maggie's-kitchen-hsr-hsr
+Toque,309782,1,HSR,4.3,"['Beverages', 'Healthy Food']",200.0,38,38,38,HSR,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,toque-life-hsr-hsr
+The Golden Bowl,213933,1,HSR,4.2,"['Indian', 'North Indian']",200.0,33,33,33,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,the-golden-bowl-hsr-hsr
+Chopstick,207569,1,Electronic City,4.0,['Chinese'],400.0,49,49,49,Doddathoguru,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,chopstick-electronic-city-electronic-city
+McDonald's Gourmet Burger Collection,295134,1,Bellandur Sarjapur,4.2,"['American', 'Continental', 'Fast Food', 'Desserts', 'Beverages']",600.0,42,42,42,ORR Central Mall,15% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,mcdonalds-gourmet-burger-collection-orr-central-mall-bellandur-sarjapur
+Snack House,255794,1,HSR,4.2,"['Fast Food', 'Snacks']",180.0,39,39,39,HSR,20% off on all orders,Percentage,RESTAURANT,40.0,,snack-house-hsr-hsr
+Bowl 99,329428,1,HSR,4.2,['Indian'],250.0,39,39,39,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,bowl-99-hsr-hsr
+Galito's,334102,1,Bellandur Sarjapur,4.2,"['African', 'Fast Food']",400.0,38,38,38,Varthur Hobli,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,galitos-varthur-hobli-bellandur-sarjapur
+Goli Vada Pav No. 1,12472,1,Electronic City,4.2,"['Maharashtrian', 'North Indian', 'Fast Food', 'Street Food']",100.0,47,47,47,Phase 1,,,,40.0,,goli-vada-pav-electronic-city
+Wow! Momo,244004,1,HSR,4.2,"['Tibetan', 'Fast Food', 'Chinese', 'Snacks', 'Continental', 'Desserts']",300.0,40,40,40,Kitchen HSR,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,wow-momo-kitchen-hsr-hsr
+Andhra Gunpowder,279024,1,HSR,4.2,"['South Indian', 'Biryani']",280.0,36,36,36,HSR,20% off on all orders,Percentage,RESTAURANT,40.0,,andhra-gunpowder-hsr-hsr-2
+Meat and Eat,5323,1,BTM,4.2,['Fast Food'],300.0,51,51,51,Maruthi Nagar BTM,25% off above Rs 299,Percentage,RESTAURANT,40.0,,meat-and-eat-maruthi-nagar-btm-btm
+Sandwich Point,262749,1,HSR,4.2,['Indian'],99.0,37,37,37,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,sandwich-point-hsr-hsr
+Natural Ice Cream,248725,1,HSR,4.7,['Ice Cream'],150.0,32,32,32,"7th Sector, HSR Layout",30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,natural-ice-cream-7th-sector-hsr-layout-hsr
+Tarbouche,100791,1,HSR,4.1,"['Arabian', 'Middle Eastern', 'Street Food', 'Beverages', 'Fast Food']",250.0,39,39,39,HSR,20% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,tarbouche-koramangala-2
+The Golden Thali,213932,1,HSR,4.3,"['Indian', 'North Indian']",200.0,40,40,40,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,the-golden-thali-hsr-hsr
+Leg Piece Biryani Co,329437,1,HSR,--,['Biryani'],300.0,33,33,33,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,leg-piece-biryani-co-hsr-hsr
+Paratha Meal co,329435,1,HSR,4.3,['Indian'],250.0,39,39,39,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,paratha-meal-co-hsr-hsr
+Pop Pulao,281460,1,HSR,3.6,['Indian'],200.0,37,37,37,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,pop-pulao-hsr-hsr
+The Daily Bowl,256718,1,HSR,3.8,"['North Indian', 'Indian']",250.0,37,37,37,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,the-daily-bowl-hsr-hsr
+Khichdi Kahani,276659,1,HSR,4.0,"['Healthy Food', 'North Indian']",200.0,38,38,38,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,khichdi-kahani-hsr-hsr
+Roti Curry and Co,277180,1,HSR,4.3,['Indian'],200.0,39,39,39,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,roti-curry-and-co-hsr-hsr
+The Veggie Thali,277179,1,HSR,3.5,['Indian'],200.0,34,34,34,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,the-veggie-thali-hsr-hsr
+Veg Luv Bowl,277178,1,Koramangala,--,"['Indian', 'Desserts']",200.0,32,32,32,Koramangala,50% off on all orders,Percentage,RESTAURANT,40.0,,veg-luv-bowl-koramangala-koramangala-2
+Pastawallah,277432,1,HSR,4.1,['Italian'],200.0,38,38,38,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,pastawallah-hsr-hsr
+The Daily Meal,256754,1,HSR,3.8,['Indian'],250.0,40,40,40,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,the-daily-meal-hsr-hsr
+Chai Kahani,276666,1,HSR,4.3,['Beverages'],100.0,38,38,38,HSR,50% off on all orders,Percentage,RESTAURANT,40.0,,chai-kahani-hsr-hsr
+California Burrito,36001,1,HSR,4.4,"['Mexican', 'American', 'Salads', 'Continental', 'Healthy Food']",350.0,38,38,38,Near BDA Complex,10% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,california-burrito-hsr-layout-hsr
+Pizza Hut,10581,1,HSR,3.9,"['Pizzas', 'Fast Food']",350.0,39,39,39,Sector 7,,,,40.0,,pizza-hut-sector-7-hsr
+Cream Stone,683,1,HSR,4.0,"['Ice Cream', 'Desserts']",200.0,39,39,39,Sector 6,,,,40.0,,cream-stone-sector-6-hsr
+AL-BEK,250760,1,HSR,3.9,['Tandoor'],500.0,40,40,40,HSR,,,,40.0,,al-bek-hsr-hsr
+Waffle Head,224169,1,HSR,4.1,"['Beverages', 'Desserts']",250.0,41,41,41,HSR,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,waffle-head-hsr-hsr
+hyderabadi biryani hub,132092,1,Bellandur Sarjapur,4.0,"['Chinese', 'South Indian', 'North Indian', 'Desserts', 'Fast Food', 'Beverages', 'Seafood', 'Punjabi', 'Hyderabadi']",350.0,34,34,34,Bellandur Sarjapur,25% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,hyderabadi-biryani-hub-bellandur-sarjapur
+Hungry Bird,65442,1,Bellandur Sarjapur,4.1,"['North Indian', 'Chinese']",400.0,33,33,33,Bellandur/Sarjapur,25% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,hungry-bird-bellandur-bellandursarjapur
+Hotel Empire,426,1,HSR,3.8,"['North Indian', 'Chinese', 'South Indian', 'Biryani']",450.0,45,45,45,Sector 6,10% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,hotel-empire-sector-6-hsr
+Leon Grill,17036,1,HSR,4.5,"['Turkish', 'Portuguese', 'American']",300.0,39,39,39,3Rd Sector,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,leon-grill-3rd-sector-hsr
+Wow! China by Wow! Momo,248787,1,HSR,3.9,"['Tibetan', 'Fast Food', 'Chinese', 'Snacks', 'Continental', 'Desserts']",300.0,41,41,41,Kitchen HSR Layout,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,wow-china-kitchen-hsr-layout-hsr
+Pure Andhra Style Reddy's Restaurant,65668,1,Bellandur Sarjapur,3.8,"['Chinese', 'South Indian', 'North Indian', 'Fast Food', 'Andhra', 'Beverages', 'Mughlai', 'Seafood', 'Punjabi', 'Hyderabadi']",500.0,33,33,33,Sarjapur,,,,40.0,,pure-andhra-style-reddys-restaurant-sarjapur-sarjapur-disabled
+Burger King Gold Collection,259630,1,HSR,--,"['American', 'Fast Food']",350.0,41,41,41,"Ground floor , HSR layout Sectror  3",,,,40.0,,burger-king-gold-collection-ground-floor-hsr-layout-sectror-3-hsr
+Cold Stone Creamery,334103,1,Bellandur Sarjapur,4.1,"['Ice Cream', 'Desserts', 'Beverages']",200.0,35,35,35,Varthur Hobli,,,,40.0,,cold-stone-creamery-varthur-hobli-bellandur-sarjapur
+Signature Dum Biriyani & Momoz Paradise,224828,1,Bellandur Sarjapur,--,"['Chinese', 'Indian', 'Combo']",300.0,40,40,40,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,healthy-combo-khazana-bellandur-sarjapur-bellandur-sarjapur-2
+Shaan E Panjab,181135,1,Bellandur Sarjapur,4.0,"['North Indian', 'Chinese', 'Combo']",250.0,37,37,37,ebony apartment.Bellandur,40% off on all orders,Percentage,RESTAURANT,40.0,,shaan-e-panjab-1-test-prod-area
+Haji dum biryani,221148,1,Bellandur Sarjapur,--,['North Indian'],300.0,35,35,35,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,healthy-combo-khazana-bellandur-sarjapur-bellandur-sarjapur
+Angan Punnjabi Restaurant,224843,1,Bellandur Sarjapur,4.1,"['Chinese', 'Indian']",300.0,48,48,48,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,angan-punnjabi-restaurant-bellandur-sarjapur-bellandur-sarjapur
+BOX8 - Desi Meals,289274,1,Bellandur Sarjapur,4.3,"['North Indian', 'Biryani', 'Fast Food', 'Combo', 'Snacks']",250.0,38,38,38,Sarjapur Road,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,box8-desi-meals-sarjapur-road-bellandur-sarjapur
+Khan Saheb Grills and Rolls,63245,1,Bellandur Sarjapur,3.9,"['Tandoor', 'Mughlai', 'North Indian', 'Kebabs']",400.0,40,40,40,Kaikondrahalli,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,khan-saheb-grills-and-rolls-00-bellandursarjapur
+SLAY Coffee,233584,1,Bellandur Sarjapur,4.4,"['Beverages', 'Cafe', 'Desserts']",200.0,38,38,38,Kaikondrahalli,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,slay-coffee-kaikondrahalli-bellandur-sarjapur
+Grub@99,230772,1,Bellandur Sarjapur,3.4,"['Beverages', 'Fast Food']",300.0,35,35,35,Bellandur Sarjapur,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,grub@99-bellandur-sarjapur-bellandur-sarjapur
+Chinese Hut,239925,1,Bellandur Sarjapur,--,['Chinese'],300.0,44,44,44,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,yin-yang-hut-bellandur-sarjapur-bellandur-sarjapur
+Madurai Veg Kitchen,105862,1,Bellandur Sarjapur,3.7,"['North Indian', 'South Indian', 'Chinese']",150.0,42,42,42,NR Layout Road,,,,40.0,,madurai-veg-kitchen-bellandursarjapur
+Balle Balle Punjabi Dhaba,224377,1,Bellandur Sarjapur,--,"['Beverages', 'Indian']",200.0,40,40,40,Sarjapur,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,shaan-e-punjab-basavanagudi-basavanagudi
+Biryani Lover,236422,1,Electronic City,3.3,"['Biryani', 'Chinese', 'Indian']",300.0,48,48,48,Electronic City,20% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,biryani-lover-electronic-city-electronic-city
+Istah Shawarma and Biryani,343925,1,Bellandur Sarjapur,4.9,"['Biryani', 'Arabian', 'Lebanese', 'Fast Food', 'Combo']",250.0,43,43,43,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,istha-shawarma-and-briyani-bellandur-sarjapur-bellandur-sarjapur
+SO-BUR,343924,1,Bellandur Sarjapur,4.7,"['American', 'Continental', 'Fast Food']",400.0,50,50,50,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,so-bur-bellandur-sarjapur-bellandur-sarjapur
+Bathinda Dine,58798,1,Bellandur Sarjapur,3.7,"['North Indian', 'Punjabi', 'Snacks', 'Combo', 'Desserts', 'Beverages']",250.0,45,45,45,Outer Ring Road,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,punjabi-restaurant-outer-ring-road-bellandur-bellandursarjapur
+Pepe's Pizza,142313,1,Bellandur Sarjapur,3.9,"['Pizzas', 'Healthy Food', 'Italian', 'Continental', 'American', 'Fast Food', 'Beverages', 'Desserts']",200.0,48,48,48,Bellandur Grama,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,pepes-pizza-na-bellandur-sarjapur
+Food Corner,236414,1,Electronic City,3.7,"['Chinese', 'Continental', 'Indian']",300.0,51,51,51,Electronic City,30% off on orders above ₹149,Percentage,RESTAURANT,40.0,,food-corner-electronic-city-electronic-city
+Yumlane Biryani,282216,1,Electronic City,3.8,"['Mughlai', 'Biryani']",400.0,47,47,47,Electronic City,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,yumlane-biryani-electronic-city-electronic-city
+Keventers - Milkshakes & Ice Creams,311259,1,Bellandur Sarjapur,4.4,"['Beverages', 'Ice Cream', 'Desserts', 'Healthy Food']",300.0,36,36,36,Doddakannelli,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,keventers-milkshakes-ice-creams-doddakannelli-bellandur-sarjapur
+Z cafe,107460,1,Electronic City,3.5,"['Chinese', 'Fast Food', 'Beverages']",300.0,50,50,50,Electronic City,,,,40.0,,z-cafe-electronic-city
+Dessert Studio by Third Wave,289835,1,Bellandur Sarjapur,4.5,['Desserts'],200.0,39,39,39,Bellandur Sarjapur,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,dessert-studio-by-third-wave-bellandur-sarjapur-bellandur-sarjapur
+Third Wave Coffee Roasters,209764,1,Bellandur Sarjapur,4.4,"['Cafe', 'Beverages', 'Pizzas']",450.0,46,46,46,Bellandur Sarjapur,20% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,third-wave-coffee-roasters-bellandur-sarjapur-bellandur-sarjapur
+Frosty Fills,107477,1,Bellandur Sarjapur,--,['Desserts'],200.0,42,42,42,Bellandur/Sarjapur,,,,40.0,,frosty-fills-bellandur-bellandursarjapur
+Kulcha Haveli,239020,1,Bellandur Sarjapur,3.9,"['North Indian', 'Punjabi', 'Snacks', 'Combo', 'Desserts', 'Beverages']",250.0,43,43,43,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,kulcha-haveli-bellandur-sarjapur-bellandur-sarjapur
+Chaap Wale,238072,1,Bellandur Sarjapur,3.4,"['North Indian', 'Punjabi', 'Snacks', 'Desserts', 'Beverages', 'Combo']",250.0,44,44,44,Bellandur Sarjapur,40% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,chaap-wale-bellandur-sarjapur-bellandur-sarjapur
+7 Days Restaurant,42749,1,Electronic City,4.0,"['North Indian', 'Chinese', 'Biryani', 'Tandoor', 'Kebabs', 'Indian', 'Desserts']",250.0,49,49,49,Konappana Agrahara,30% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,7-days-restaurant-electronic-city-electronic-city
+Das ka Ghar,150919,1,HSR,4.3,"['Bengali', 'Biryani', 'North Indian', 'Sweets']",400.0,46,46,46,Roopena Agrahara NGR layout,50% off on all orders,Percentage,RESTAURANT,40.0,,das-ka-ghar1-test-prod-area
+Paaji Paratha! Breakfast Special,314867,1,Electronic City,3.5,"['Punjabi', 'North Indian', 'Fast Food', 'Snacks', 'Beverages']",350.0,51,51,51,Electronic City,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-house-of-parathas-electronic-city-electronic-city
+Chai Resto,118261,1,Electronic City,4.0,"['North Indian', 'Fast Food', 'Beverages']",150.0,49,49,49,phase 1,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,chai-resto-electronic-city
+SNACKS MANDI,203283,1,Electronic City,3.4,['Kebabs'],250.0,44,44,44,Electronic City,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,indi-seekh-kebabs-electronic-city-electronic-city
+Lassi Resto Cafe,47749,1,Electronic City,3.5,"['Desserts', 'Fast Food', 'Beverages']",100.0,47,47,47,Electronic City,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,lassi-resto-cafe-electronic-city-electronic-city
+Stonedzone,125208,1,Electronic City,4.0,['Desserts'],300.0,47,47,47,Electronic City,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,stonedzone-electronic-city
+Satkar restaurant,39175,1,Electronic City,3.9,"['Chinese', 'North Indian']",200.0,48,48,48,electronic city,15% off on orders above ₹99,Percentage,RESTAURANT,40.0,,satkar-restaurant-electronic-city-electronic-city
+Aaha Biryani,300815,1,Electronic City,3.5,"['Biryani', 'North Indian']",400.0,47,47,47,Veera Medicals,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,aaha-biryani-electronic-city-electronic-city
+Chopstick,321335,1,Bellandur Sarjapur,4.1,"['Chinese', 'Thai']",200.0,50,50,50,Bellandur Sarjapur,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,chopstick-bellandur-sarjapur-bellandur-sarjapur
+Subway,231485,1,Bellandur Sarjapur,4.0,"['Fast Food', 'Healthy Food', 'Salads', 'Snacks', 'Desserts', 'Beverages']",350.0,42,42,42,Bellandur Sarjapur,,,,40.0,,subway-bellandur-sarjapur-bellandur-sarjapur
+Biryani BAE,300816,1,Electronic City,3.8,"['Indian', 'Chinese']",400.0,49,49,49,Veera Medicals,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,biryani-bae-electronic-city-electronic-city
+Momoz,236943,1,Bellandur Sarjapur,4.0,['Chinese'],450.0,50,50,50,Bellandur Sarjapur,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,momoz-bellandur-sarjapur-bellandur-sarjapur
+THE TASTE OF TANDOORI,256422,1,Electronic City,4.1,"['Tandoor', 'Chinese', 'Combo', 'Fast Food', 'North Indian', 'Indian']",300.0,51,51,51,Narayan reddy layout,20% off on all orders,Percentage,RESTAURANT,40.0,,the-taste-of-tandoori-electronic-city-electronic-city
+S S popular frozen stone,129552,1,Bellandur Sarjapur,4.0,"['Ice Cream', 'Beverages', 'Juices']",200.0,47,47,47,Bellandur Sarjapur,Free delight on orders above ₹99,Freebie,RESTAURANT,40.0,,s-s-popular-frozen-stone-bellandur-sarjapur
+Veruthe Oru Thattukada,31075,1,Arekere,4.1,"['Biryani', 'Seafood', 'South Indian']",350.0,53,53,53,Akshaya Nagar,20% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,veruthe-oru-thattukada-bannerghatta-road-arekere
+Burger Zone,226600,1,Electronic City,4.0,['Fast Food'],300.0,52,52,52,Electronic City,40% off on all orders,Percentage,RESTAURANT,40.0,,burger-zone-electronic-city-electronic-city
+Burger Cafe,228281,1,Electronic City,4.1,"['American', 'Fast Food', 'Continental', 'Snacks']",250.0,57,57,57,Electronic City,30% off on all orders,Percentage,RESTAURANT,40.0,,late-night-cafe-electronic-city-electronic-city
+BIRYANI CIRCLE,325788,1,BTM,4.1,['Biryani'],400.0,50,50,50,BTM,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,biryani-circle-btm-btm
+Polar Bear,31693,1,Bellandur Sarjapur,4.5,['Desserts'],280.0,41,41,41,Green Glen Layout,,,,40.0,,polar-bear-bellandur-bellandursarjapur
+The Foody Station,333648,1,Bellandur Sarjapur,--,"['American', 'Continental', 'Fast Food', 'Snacks']",150.0,50,50,50,Bellandur Sarjapur,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,the-foody-station-bellandur-sarjapur-bellandur-sarjapur
+World on a Swirl,59898,1,Arekere,4.4,"['Ice Cream', 'Bakery', 'Desserts', 'Fast Food', 'Beverages']",180.0,52,52,52,arekere,20% off on orders above ₹149,Percentage,RESTAURANT,40.0,,world-on-a-swirl-bannerghatta-road-test-prod-area
+The Bowl Company,70351,1,Electronic City,4.0,"['Continental', 'North Indian', 'Pan-Asian', 'Desserts', 'American', 'Asian', 'Beverages', 'Biryani', 'Chinese', 'Combo', 'European', 'Fast Food', 'Grill', 'Hyderabadi', 'Indian', 'Italian', 'Kebabs', 'Lucknowi', 'Mediterranean', 'Mexican', 'Mughlai', 'Oriental', 'Pas']",300.0,47,47,47,Next to SJR Equinox,40% off | Use SWIGGYIT,Percentage,RESTAURANT,42.0,,the-bowl-company-electronic-city-electronic-city
+Hungeroo,177502,1,Electronic City,3.8,"['Pizzas', 'Italian', 'Desserts', 'Fast Food']",500.0,54,54,54,electronic city phase 2,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,hungeroo-test-prod-area-2
+MAD Belgian waffles,99780,1,Electronic City,3.2,['Desserts'],250.0,49,49,49,Electronic City,,,,40.0,,mad-belgian-waffles-electronic-city
+Hipo Burger,242211,1,Electronic City,4.2,['Indian'],500.0,48,48,48,Electronic City,40% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,hipo-burger-electronic-city-electronic-city
+Brothers Burger,248710,1,BTM,4.1,"['American', 'Fast Food', 'Snacks']",200.0,54,54,54,BTM layout 1st stage,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,brothers-burger-btm-btm
+McDonald's,23683,1,BTM,4.3,['Fast Food'],400.0,53,53,53,BTM Layout,,,,40.0,,mc-donalds-btm-btm
+Achayans pride,131806,1,Electronic City,4.1,"['South Indian', 'Kerala']",200.0,55,55,55,BETTADASANAPURA,,,,40.0,,achayans-pride-bettadasanapura-electronic-city
+Chai Days,208896,1,BTM,4.3,['Snacks'],250.0,49,49,49,BTM,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,chai-days-btm-btm
+Pizza Republic,27743,1,Electronic City,3.2,['Italian'],500.0,56,56,56,Bettadasanapura Main Rd,,,,40.0,,pizza-republic-electronic-city-electronic-city
+Hatti Punjab Di,12323,1,Electronic City,3.4,"['Punjabi', 'North Indian', 'Chinese', 'Tandoor']",400.0,55,55,55,Neeladari nagar,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,hatti-punjab-di-electronic-city
+Punjabi Swag,37744,1,BTM,4.0,"['Punjabi', 'North Indian', 'Chinese', 'Fast Food', 'Mughlai', 'Desserts']",400.0,56,56,56,16th Main Road,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,punjabi-swag-btm-btm
+Budapest Bake Inn,206489,1,BTM,3.8,"['Desserts', 'Ice Cream', 'Snacks', 'Fast Food']",350.0,68,68,68,BTM,,,,40.0,,budapest-bake-inn-btm-btm-2
+Only Punjabi,220235,1,Electronic City,3.8,"['North Indian', 'Punjabi']",200.0,56,56,56,Electronic City,,,,40.0,,only-punjabi-electronic-city-electronic-city
+U R Military Hotel,240901,1,BTM,4.0,"['Biryani', 'Andhra', 'South Indian', 'Combo', 'Kebabs', 'North Indian', 'Healthy Food']",100.0,54,54,54,BTM,40% off on orders above ₹99,Percentage,RESTAURANT,40.0,,u-r-military-hotel-btm-btm
+Donne Biryani Mandi,227164,1,BTM,4.0,"['Biryani', 'Andhra', 'South Indian', 'Kebabs', 'Beverages']",150.0,51,51,51,BTM,50% off on orders above ₹99,Percentage,RESTAURANT,40.0,,donne-biryani-mandi-btm-btm
+Donne Biryani,260444,1,BTM,4.0,"['Biryani', 'Andhra', 'Attractive Combos Available', 'South Indian', 'Kebabs', 'Beverages']",100.0,55,55,55,BTM,60% off | Use DEAL60,Percentage,RESTAURANT,40.0,,jadappa-donne-biryani-btm-btm
+Abiruchi Restaurant,325734,1,Electronic City,3.7,"['Andhra', 'North Indian', 'Chinese', 'South Indian']",250.0,56,56,56,Electronic City,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,abiruchi-restaurant-electronic-city-electronic-city
+ Sri Lakshmi Dhaba,124023,1,BTM,3.4,['North Indian'],200.0,52,52,52,"100 Feet Ring Road, B T M Mico Layout",50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,sri-lakshmi-dhaba-btm
+Voosh Thalis & Bowls,331431,1,Electronic City,4.1,"['North Indian', 'Home Food']",199.0,62,62,62,Electronic City,50% off | Use SWIGGYIT,Percentage,RESTAURANT,40.0,,voosh-electronic-city-electronic-city
+Maa Reddy's Hyderabadi Biryani House,308406,1,BTM,3.2,"['Biryani', 'Andhra', 'Hyderabadi', 'Chinese', 'Seafood']",400.0,57,57,57,BTM,30% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,maa-reddy's-hyderabadi-biryani-house-btm-btm
+Easy Bites,246591,1,Electronic City,4.0,"['American', 'Continental', 'Combo', 'Snacks', 'Seafood']",200.0,56,56,56,Electronic City,,,,40.0,,easy-bites-electronic-city-electronic-city
+Juice Shop,246129,1,Electronic City,4.1,"['Fast Food', 'Juices']",150.0,53,53,53,Electronic City,50% off | Use SWIGGYIT,Percentage,RESTAURANT,0.0,,juice-shop-electronic-city-electronic-city
+Yum In My Tum,107301,1,BTM,3.7,"['Chinese', 'Continental', 'Beverages', 'Pizzas', 'Italian', 'Healthy Food', 'North Indian', 'Fast Food', 'Pastas', 'Desserts', 'Tibetan']",200.0,62,62,62,2nd Stage,60% off | Use DEAL60,Percentage,RESTAURANT,0.0,,yum-in-my-tum-bengaluru-karnataka-btm
+Udta Punjab Kitchen,224634,1,BTM,3.3,"['North Indian', 'Chinese']",150.0,59,59,59,9th D Main Cross,,,,40.0,,udta-punjab-kitchen-btm-btm
+Delhi Wala Paratha,230443,1,BTM,--,['North Indian'],200.0,56,56,56,9th D Main Cross,,,,40.0,,delhi-wala-paratha-btm-btm
