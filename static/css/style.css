@@ -1,0 +1,12 @@
+#suggestions > div:hover{
+	background-color: #1e4dd4;
+}
+
+#suggestions > div{
+	cursor: pointer;
+}
+
+.download_button{
+	margin: auto;
+	width: 40px;
+}
